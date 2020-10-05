@@ -1,8 +1,0 @@
-
-[submodule "booking/branan-booking"]
-	path = booking/branan-booking
-	url = https://github.com/Air-BnB-Mock-Up/branan-booking.git
-
-[submodule "ratings/javier-component"]
-	path = ratings/javier-component
-	url = https://github.com/Air-BnB-Mock-Up/javier-component.git
