@@ -1,0 +1,3 @@
+[submodule "air-photos/jase-mosaic"]
+	path = air-photos/jase-mosaic
+	url = https://github.com/Air-BnB-Mock-Up/jase-mosaic.git
