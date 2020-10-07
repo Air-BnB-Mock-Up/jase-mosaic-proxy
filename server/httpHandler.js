@@ -8,7 +8,7 @@ const app = express();
 const cors = require('../cors.json');
 const { template } = require('./template.js')
 ///////////////////////////////////////////
-app.get('/template/:locationID', (req, res) => {
+app.get('/airbnb/room/:locationID', (req, res) => {
   console.log(req.params.locationID)
   locationID = req.params.locationID;
     res.header(cors)
