@@ -1,7 +1,10 @@
+///////////////////////////////////////////
+// SERVER SIDE RENDERING TEMPLATE /////////
 module.exports.template =
 `<!DOCTYPE html>
 <html>
   <head>
+  <title>MOCK BNB</title>
   </head>
   <body>
     <div id="photos"></div>
