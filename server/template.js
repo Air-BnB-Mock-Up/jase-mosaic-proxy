@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+module.exports.template =
+`<!DOCTYPE html>
 <html>
   <head>
   </head>
@@ -10,4 +11,4 @@
     <div id="allthereviews"></div>
     <script src="http://localhost:1010/bundle.js"></script>
   </body>
-</html>
+</html>`

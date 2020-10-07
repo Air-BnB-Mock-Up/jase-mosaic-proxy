@@ -1,4 +1,4 @@
-const app = require('./httpHandler.js')
+const {app} = require('./httpHandler.js')
 const port = 3030;
 
 app.listen(port, () => {

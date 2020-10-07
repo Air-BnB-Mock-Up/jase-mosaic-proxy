@@ -4,8 +4,7 @@
   "description": "Proxy for running 3 services",
   "main": "server/index.js",
   "scripts": {
-    "start": "nodemon /server/index.js",
-    "build": "webpack -d --watch"
+    "start": "nodemon /server/index.js"
   },
   "repository": {
     "type": "git",
