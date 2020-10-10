@@ -18,9 +18,9 @@
   "homepage": "https://github.com/Air-BnB-Mock-Up/jase-mosaic-proxy#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "nodemon": "^2.0.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
   }
 }
